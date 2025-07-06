@@ -1,6 +1,6 @@
 # arduino-led-blink
 Arduino code to toggle two LEDs alternately on pins 7 and 3.
-This is a simple Arduino project that toggles two LEDs alternately using pins 7 and 3. Works great on a real Arduino UNO or in a Tinkercad simulation.
+This is a simple Arduino project that toggles two LEDs alternately using pins 7 and 3.
 
 ##  Components
 - Arduino UNO
