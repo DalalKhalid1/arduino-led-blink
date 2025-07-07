@@ -20,7 +20,7 @@ This is a simple Arduino project that toggles two LEDs alternately using pins 7 
 - Then LED1 turns off → LED2 turns on for 500ms.
 - Repeats forever!
 
-## 💻 Code
+##  Code
 
 ```cpp
 void setup() {
